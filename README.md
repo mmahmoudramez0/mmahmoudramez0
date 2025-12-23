@@ -52,7 +52,8 @@ I build scalable test automation frameworks and ensure software quality for fint
 
 ## 🏆 Certifications
 
-- ✅ ISTQB Certified Tester
+- ✅ ISTQB CTFL Certified Tester
+- ✅ ISTQB MAT Certified Tester
 - ✅ AWS Cloud Practitioner
 
 ---
